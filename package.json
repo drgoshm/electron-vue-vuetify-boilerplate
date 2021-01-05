@@ -24,7 +24,7 @@
   "main": "./dist/electron/main.js",
   "dependencies": {
     "@fortawesome/fontawesome-free": "^5.8.2",
-    "axios": "^0.18.1",
+    "axios": "^0.21.1",
     "fibers": "^4.0.1",
     "roboto-fontface": "*",
     "vue": "^2.5.16",
